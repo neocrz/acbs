@@ -26,7 +26,7 @@ A nomemclatura segue o padrão `tipo-nome_cidade-ano.csv`, onde:
 - `tipo` é o tipo de dados presente no arquivo .csv representado por dois caracteres
     - `pp` para produtividade policial
     - `tx` para taxa de delito
-    - `or` para ocorrências registradas
+    - `or` para ocorrências registradas por mês
 - `nome_cidade` é o nome da cidade correspondente ao arquivo.
     - nomes compostos por mais de uma palavra segue o padrão [Snake case](https://en.wikipedia.org/wiki/Snake_case) para separação das palavras.
 - `ano` o ano correspondente.
